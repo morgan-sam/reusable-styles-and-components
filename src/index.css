@@ -7,10 +7,19 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.page {
+  height: auto;
+  width: 100vw;
+}
+
 .center {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.border {
+  border: 1px solid black;
 }
 
 /* Padding */
