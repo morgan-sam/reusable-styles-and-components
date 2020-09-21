@@ -12,6 +12,8 @@ code {
     monospace;
 }
 
+/* Padding */
+
 .p1 {
   padding: 1rem;
 }
@@ -41,4 +43,37 @@ code {
 }
 .p10 {
   padding: 10rem;
+}
+
+/* Margin */
+
+.m1 {
+  margin: 1rem;
+}
+.m2 {
+  margin: 2rem;
+}
+.m3 {
+  margin: 3rem;
+}
+.m4 {
+  margin: 4rem;
+}
+.m5 {
+  margin: 5rem;
+}
+.m6 {
+  margin: 6rem;
+}
+.m7 {
+  margin: 7rem;
+}
+.m8 {
+  margin: 8rem;
+}
+.m9 {
+  margin: 9rem;
+}
+.m10 {
+  margin: 10rem;
 }
