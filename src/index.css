@@ -8,8 +8,11 @@ body {
 }
 
 .page {
+  display: flex;
+  flex-direction: column;
   height: auto;
   width: 100vw;
+  box-sizing: border-box;
 }
 
 .center {
