@@ -36,6 +36,16 @@ body {
   justify-content: center;
 }
 
+.top {
+  display: flex;
+  align-items: flex-start;
+}
+
+.bottom {
+  display: flex;
+  align-items: flex-end;
+}
+
 .border {
   border: 1px solid black;
 }
