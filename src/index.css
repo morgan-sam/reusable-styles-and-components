@@ -15,9 +15,19 @@ body {
   box-sizing: border-box;
 }
 
+.container > * {
+  height: fit-content;
+  width: fit-content;
+}
+
 .horizontal {
   display: flex;
   flex-direction: row;
+}
+
+.vertical {
+  display: flex;
+  flex-direction: column;
 }
 
 .center {
