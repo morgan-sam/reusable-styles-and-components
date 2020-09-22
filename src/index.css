@@ -15,6 +15,11 @@ body {
   box-sizing: border-box;
 }
 
+.horizontal {
+  display: flex;
+  flex-direction: row;
+}
+
 .center {
   display: flex;
   align-items: center;
