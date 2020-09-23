@@ -8,9 +8,19 @@ body {
 }
 
 .page {
+  width: 100vw;
+}
+
+.body {
   display: flex;
   flex-direction: column;
   height: auto;
+  width: 100vw;
+  box-sizing: border-box;
+}
+
+.header {
+  display: block;
   width: 100vw;
   box-sizing: border-box;
 }
